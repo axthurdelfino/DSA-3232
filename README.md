@@ -1,6 +1,6 @@
 # PowerOn
 
-Sistema de academia em Python 3.10 ou superior, com menus no terminal.
+Sistema de academia em Python 3.10 ou superior, com menus no terminal
 
 Cadastre alunos e professores, depois modalidades e matrículas. O menu
 principal também oferece faturamento por modalidade. Datas usam DD/MM/AAAA;
